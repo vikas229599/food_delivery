@@ -1,16 +1,16 @@
 {
-  "files": {
-    "main.css": "/react-gh-pages/static/css/main.fe60a2f8.css",
-    "main.js": "/react-gh-pages/static/js/main.6e6d58b8.js",
-    "static/js/787.5480e000.chunk.js": "/react-gh-pages/static/js/787.5480e000.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.fe60a2f8.css.map": "/react-gh-pages/static/css/main.fe60a2f8.css.map",
-    "main.6e6d58b8.js.map": "/react-gh-pages/static/js/main.6e6d58b8.js.map",
-    "787.5480e000.chunk.js.map": "/react-gh-pages/static/js/787.5480e000.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.fe60a2f8.css",
-    "static/js/main.6e6d58b8.js"
-  ]
+  "main.css": "/restourent/static/css/main.36212707.chunk.css",
+  "main.js": "/restourent/static/js/main.f74224db.chunk.js",
+  "main.js.map": "/restourent/static/js/main.f74224db.chunk.js.map",
+  "static/js/1.97af9aab.chunk.js": "/restourent/static/js/1.97af9aab.chunk.js",
+  "static/js/1.97af9aab.chunk.js.map": "/restourent/static/js/1.97af9aab.chunk.js.map",
+  "static/js/2.1fb84335.chunk.js": "/restourent/static/js/2.1fb84335.chunk.js",
+  "static/js/2.1fb84335.chunk.js.map": "/restourent/static/js/2.1fb84335.chunk.js.map",
+  "runtime~main.js": "/restourent/static/js/runtime~main.2e64d9e6.js",
+  "runtime~main.js.map": "/restourent/static/js/runtime~main.2e64d9e6.js.map",
+  "static/media/logo.svg": "/restourent/static/media/logo.06e73328.svg",
+  "static/css/main.36212707.chunk.css.map": "/restourent/static/css/main.36212707.chunk.css.map",
+  "index.html": "/restourent/index.html",
+  "precache-manifest.3020b153ebb0410d6717a6813d5cd226.js": "/restourent/precache-manifest.3020b153ebb0410d6717a6813d5cd226.js",
+  "service-worker.js": "/restourent/service-worker.js"
 }
